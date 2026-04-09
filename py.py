@@ -1,3 +1,0 @@
-
-text = "aaaa"
-print(text)
